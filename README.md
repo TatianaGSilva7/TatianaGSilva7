@@ -1,16 +1,14 @@
-## Hi there 👋
+👨‍💻 Sobre Mim
+Estou cursando a graduação em Análise e Desenvolvimento de Sistemas pela Faculdade SENAI de São Carlos. 
 
-<!--
-**TatianaGSilva7/TatianaGSilva7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tecnologias e Ferramentas
 
-Here are some ideas to get you started:
+Frontend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend
+
+Bancos de Dados
+
+DevOps & Infraestrutura
+
+📫 Como me encontrar
